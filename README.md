@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nguyen Dang Quy</h1>
 <h3 align="center">A backend developer from Vietnam</h3>
 
-- 📫 How to reach me **dangquyitt@gmail.com**
+<p align="center">dangquyitt@gmail.com</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
