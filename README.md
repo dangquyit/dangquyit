@@ -3,6 +3,8 @@
 
 <p align="center">dangquyitt@gmail.com</p>
 
+<h3 align="left"><a href="https://www.topcv.vn/xem-cv/VVJSA1ZaXwIGB1wGCwVTAAMFC11UUwQAC1RWAg58c7">My profile</a></h3>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dangquyitt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dangquyitt" height="30" width="40" /></a>
