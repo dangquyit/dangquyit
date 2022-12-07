@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Nguyen Dang Quy</h1>
+<h1 align="center">Hi 👋, I'm <a href="https://www.topcv.vn/xem-cv/VVJSA1ZaXwIGB1wGCwVTAAMFC11UUwQAC1RWAg58c7">Nguyen Dang Quy</a></h1>
 <h3 align="center">A backend developer from Vietnam</h3>
 
 <p align="center">dangquyitt@gmail.com</p>
-
-<h3 align="left"><a href="https://www.topcv.vn/xem-cv/VVJSA1ZaXwIGB1wGCwVTAAMFC11UUwQAC1RWAg58c7">My profile</a></h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
